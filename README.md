@@ -1,2 +1,2 @@
 # ecommerce-data-analytics-pipeline
-End-to-end e-commerce data analytics pipeline using Python, Pandas, SQL and Power BI.
+End-to-end e-commerce data analytics pipeline using Python, Pandas, SQL.
